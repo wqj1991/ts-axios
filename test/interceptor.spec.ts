@@ -1,7 +1,5 @@
 import axios, { AxiosRequestConfig, AxiosResponse } from '../src/index'
 import { getAjaxRequest } from './helper'
-import { config } from '_@types_shelljs@0.8.6@@types/shelljs'
-import { request } from 'http'
 
 describe('interceptors', () => {
   beforeEach(() => {

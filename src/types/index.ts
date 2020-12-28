@@ -1,7 +1,3 @@
-import { request } from 'http'
-import { promises } from 'dns'
-import { config } from '_@types_shelljs@0.8.6@@types/shelljs'
-
 export type Method =
   | 'get'
   | 'GET'

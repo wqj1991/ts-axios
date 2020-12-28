@@ -1,6 +1,6 @@
 {
-  "name": "ts-axios-coyp",
-  "version": "0.1.0",
+  "name": "@wynnyo/ts-axios",
+  "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "dist/axios.umd.js",
@@ -9,10 +9,10 @@
   "files": [
     "dist"
   ],
-  "author": "Mrchenyiyang123 <1721641519@qq.com>",
+  "author": "wynnyo <wynnyo@163.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mrchenyiyang123/ts-axios"
+    "url": "https://github.com/wynnyo/ts-axios"
   },
   "license": "MIT",
   "engines": {

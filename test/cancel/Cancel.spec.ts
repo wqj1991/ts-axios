@@ -1,5 +1,4 @@
 import Cancel, { isCancel } from '../../src/cancel/Cancel'
-import { operation } from '_@types_retry@0.12.0@@types/retry'
 
 describe('cancel:Cancel', () => {
   test('should returns correct result when message is specofied', () => {
